@@ -1,0 +1,4 @@
+kali/ubuntu
+    /etc/network/interfaces
+    /etc/resolv.conf
+    /etc/init.d/networking restart
